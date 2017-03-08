@@ -1,0 +1,5 @@
+C:\Users\Gain\OneDrive\Documents\Visual Studio 2015\Projects\数据库测试\serverTest\bin\Debug\serverTest.exe.config
+C:\Users\Gain\OneDrive\Documents\Visual Studio 2015\Projects\数据库测试\serverTest\bin\Debug\serverTest.exe
+C:\Users\Gain\OneDrive\Documents\Visual Studio 2015\Projects\数据库测试\serverTest\bin\Debug\serverTest.pdb
+C:\Users\Gain\OneDrive\Documents\Visual Studio 2015\Projects\数据库测试\serverTest\obj\Debug\serverTest.exe
+C:\Users\Gain\OneDrive\Documents\Visual Studio 2015\Projects\数据库测试\serverTest\obj\Debug\serverTest.pdb

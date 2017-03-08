@@ -1,0 +1,9 @@
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\bin\Debug\数据库测试.exe.config
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\bin\Debug\数据库测试.exe
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\bin\Debug\数据库测试.pdb
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.csprojResolveAssemblyReference.cache
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.Form1.resources
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.Properties.Resources.resources
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.csproj.GenerateResource.Cache
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.exe
+c:\users\gain\onedrive\documents\visual studio 2015\Projects\数据库测试\数据库测试\obj\Debug\数据库测试.pdb
